@@ -1,0 +1,32 @@
+---
+title: "Maggie M Dillon"
+---
+
+### [**Education**]{.underline}
+
+Master's in Biology
+
+*California State Polytechnic University, Pomona 2022 -- Present*
+
+*Relevant Coursework:*
+
+-   Fish Biology -- Field sampling skills and fish ID
+
+-   R Coding and Stats
+
+-   Wildlife Interactions- Seminar on wildlife, human, and stakeholder interactions
+
+-    Hawaii Coral Reef Field Ecology
+
+BACHELOR OF ARTS\
+*St. John\'s College, Annapolis MD*
+
+*2014 - 2018\
+\
+*
+
+### [**Research Experience**]{.underline}
+
+### [**Teaching and Outreach Experience**]{.underline} 
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
