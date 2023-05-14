@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Something to add later",
     "section": "",
     "text": "I am a marine ecology graduate student at Cal Poly Pomona in The Claisse Lab and currently developing my thesis. I am interested in quantitative marine research including fisheries, ecosystem based mangement, and anthropogenic effects on marine ecoysystems research. I have a broad range of experiences in education, research, and policy work spanning both coasts of the United States, Jamaica, the Dominican Republic, and in remote and urban settings. I enjoy projects that couple science with outreach and community engagement."
   },
@@ -11,13 +11,48 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "working on this"
+    "text": "California Polytechnic University, Pomona | Pomona, CA Master’s in Biology | August 2022 - Present\nSt. John’s College | Annapolis MD B.A | August 2014 - May 2018"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Maggie M Dillon",
+    "title": "Maggie M. Dillon",
     "section": "",
-    "text": "Education\nMaster’s in Biology\nCalifornia State Polytechnic University, Pomona 2022 – Present\nRelevant Coursework:\n\nFish Biology – Field sampling skills and fish ID\nR Coding and Stats\nWildlife Interactions- Seminar on wildlife, human, and stakeholder interactions\nHawaii Coral Reef Field Ecology\n\nBACHELOR OF ARTS\nSt. John's College, Annapolis MD\n2014 - 2018\n\n\n\n\nResearch Experience\n\n\nTeaching and Outreach Experience\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a marine ecology graduate student at Cal Poly Pomona in The Claisse Lab and currently developing my thesis. I am interested in quantitative marine research including fisheries, ecosystem based management, and anthropogenic effects on marine ecosystems research. I have a broad range of experiences in education, research, and policy work spanning both coasts of the United States, Jamaica, the Dominican Republic, and in remote and urban settings. I enjoy projects that couple science with outreach and community engagement."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Maggie M. Dillon",
+    "section": "Education",
+    "text": "Education\nCalifornia Polytechnic University, Pomona | Pomona, CA Master’s in Biology | August 2022 - Present\nSt. John’s College | Annapolis MD B.A | August 2014 - May 2018\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "Research Experience",
+    "text": "Research Experience\nCal Poly Pomona | Graduate Research Assistant | August 2022 - present\nVirginia Institute of Marine Sciences | Field and Research Technicain | July 2021 - July 2022"
+  },
+  {
+    "objectID": "cv.html#teaching-and-outreach-experience",
+    "href": "cv.html#teaching-and-outreach-experience",
+    "title": "CV",
+    "section": "Teaching and Outreach Experience",
+    "text": "Teaching and Outreach Experience"
   }
 ]
