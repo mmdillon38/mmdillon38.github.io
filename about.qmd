@@ -2,6 +2,4 @@
 title: "About"
 ---
 
-## Hello!
-
-I am a marine ecology graduate student at Cal Poly Pomona in [The Claisse Lab](https://www.claisselab.com/) and currently developing my thesis. I am interested in quantitative research including fisheries, ecosystem based, and BLANK research. I enjoy projects that couple science with outreach and community engagement.
+## 
