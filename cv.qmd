@@ -1,5 +1,0 @@
----
-title: "CV"
----
-
-Show my CV on wesbite
