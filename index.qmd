@@ -1,32 +1,35 @@
 ---
-title: "Maggie M Dillon"
+title: "Maggie M. Dillon"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelop
+      text: email
+      href: mailto:mmdillon@cpp.edu
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: File
+      text: CV
+      href: cv.pdf
+      id: ppc
 ---
 
-### [**Education**]{.underline}
+:::{#ppc}
 
-Master's in Biology
+Hello! I am a marine ecology graduate student at Cal Poly Pomona in [The Claisse Lab](https://www.claisselab.com/). My thesis uses remotely operated vehicles with stereo video (Stereo-ROV) to assess the influence of construction material and habitat metrics on size specific fish assemblages.
 
-*California State Polytechnic University, Pomona 2022 -- Present*
+I am interested in quantitative marine research including fisheries, ecosystem based management, and anthropogenic effects on marine ecosystems research. I have a broad range of experiences in education, research, and policy work spanning both coasts of the United States, Jamaica, the Dominican Republic, and in remote and urban settings. I enjoy projects that couple science with outreach and community engagement.
 
-*Relevant Coursework:*
+![](images/kelp-01.jpg)
 
--   Fish Biology -- Field sampling skills and fish ID
+**Education**
 
--   R Coding and Stats
+California Polytechnic University, Pomona \| Pomona, CA Master’s in Biology \| August 2022 - Present
 
--   Wildlife Interactions- Seminar on wildlife, human, and stakeholder interactions
-
--    Hawaii Coral Reef Field Ecology
-
-BACHELOR OF ARTS\
-*St. John\'s College, Annapolis MD*
-
-*2014 - 2018\
-\
-*
-
-### [**Research Experience**]{.underline}
-
-### [**Teaching and Outreach Experience**]{.underline} 
+St. John’s College \| Annapolis MD B.A \| August 2014 - May 2018
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+:::
