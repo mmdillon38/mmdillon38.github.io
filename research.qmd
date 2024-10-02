@@ -4,7 +4,7 @@ title: "Research"
 
 ## Artificial Reefs and Offshore Wind
 
-#### The effects of construction material and habitat metrics on fish assemablages
+#### The effects of construction material and habitat metrics on fish assemblages
 
 ![](docs/rov.jpg)
 
