@@ -4,14 +4,21 @@ title: "Research"
 
 ## Artificial Reefs and Offshore Wind
 
+#### The effects of construction material and habitat metrics on fish assemablages 
+
 ![](docs/rov.jpg)
 
 ## Climate Change
 
-![](docs/boringsponges.jpg)
+#### Ocean Acidification on Boring Sponges (*Cliona celata)* at Occidental College in the Stubler Lab
 
-Ocean Acidification on Boring Sponges (*Cliona celata)* at Occidental College in the Stubler Lab
+![Boring Sponge lab design](docs/boringsponges.jpg)
 
-![](docs/bluecat.jpg)
 
-The effect of temperature and salinity on blue catfish (*Ictalurus furcatus)* metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab
+#### The effect of temperature and salinity on blue catfish (*Ictalurus furcatus*) metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab
+
+![Blue catfish in a respirometry chamber](docs/bluecat.jpg)
+
+#### Ocean Acidification, Dissolved Oxygen, and Seasonal Variation on the early life stages of Atlantic Silverside (*Menidia menidia*)
+
+![Larval fish under scope](docs/larvalfish.jpg)
