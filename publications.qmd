@@ -11,4 +11,16 @@ title: "Publications and Presentations"
 
 ### Presentations
 
+**GEOHAB** Arendal Norway / May 2024 Presented poster on the influence of construction material and habitat metrics on fish assemblages on southern California artificial reefs
+
+**Ocean Science Meeting** New Orleans LA / February 2024 Presented poster on size specific fish assemblages on southern California artificial reefs using remotely operated stereo video
+
+**Western Society of Naturalist Conference** Monterey CA / November 2023 Presented poster on fish assemblages on southern California artificial reefs using remotely operated stereo video
+
+**Western Society of Naturalist Conference** Oxnard CA / November 2022 Won best graduate student poster for research on the effects of temperature on metabolic rates of Blue Catfish
+
+**American Fisheries Society Tidewater Conference** Nags Head NC / March 2022 Presented a poster on the effects of temperature on metabolic rates of Blue Catfish
+
+**National American Fisheries Society Conference** Presented a talk on the effects of seasonal variation on Atlantic silverside early life history Atlantic City NJ / August 2018
+
 ![](docs/geohab.jpg){fig-align="center"}
