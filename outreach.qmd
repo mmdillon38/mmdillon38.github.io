@@ -6,20 +6,26 @@ title: "Teaching and Outreach"
 
 ### Cal Poly Pomona
 
-**PADI Open Water Instructor at the CPP ASI Dive Center (Current**): Teach Discover Scuba Dive and PADI Open Water Diver courses to CPP students
+-   **PADI Open Water Instructor at the CPP ASI Dive Center (Current**): Teach Discover Scuba Dive and PADI Open Water Diver courses to CPP students
 
-**President Biology Department Instructional Related Activities Committee (Current)**: Process purchase orders and disbursement requests for faculty members and biology department field courses
+-   **President Biology Department Instructional Related Activities Committee (Current)**: Process purchase orders and disbursement requests for faculty members and biology department field courses
 
-**President Biology Graduate Student Association (2023-2025)**:
+-   **President Biology Graduate Student Association (2023-2025)**: Serve as a liaison between graduate students and the department and fosters an inclusive graduate student body
 
-**TA BIO 1220 Foundations of Ecology (Fall 2022**): Introductory ecology course for bio majors.
+-   **TA BIO 1220 Foundations of Ecology (Fall 2022**): Introductory ecology course for bio majors.
 
-![](docs/algaetank.jpg){fig-align="center"}
+### Fellowships
+
+-   ARI Fellowship
+
+-   Kenneth Coale
+
+-   NRT Traineeship
 
 ### Previous Teaching Experience
 
-CIMI
+-   CIMI
 
-Rustic Pathways
+-   Rustic Pathways
 
-### Fellowships
+![](docs/algaetank.jpg){fig-align="center"}
