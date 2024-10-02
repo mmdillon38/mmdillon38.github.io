@@ -1,2 +1,3 @@
 # mmdillon38.github.io
-Personal Website
+
+This is my personal and research website for updating and applying to graduate programs
