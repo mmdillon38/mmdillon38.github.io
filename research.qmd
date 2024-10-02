@@ -14,4 +14,4 @@ Ocean Acidification on Boring Sponges (*Cliona celata)* at Occidental College in
 
 ![](docs/bluecat.jpg)
 
-The effect of temperature and aalinity on blue catfish (*Ictalurus furcatus)* metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab
+The effect of temperature and salinity on blue catfish (*Ictalurus furcatus)* metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab
