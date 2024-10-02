@@ -10,7 +10,9 @@ website:
       - href: research.qmd
         text: Research
       - href: outreach.qmd
-        text: Teaching and Outreach
+        text: Outreach
+      - href: outreach.qmd
+        text: Publications and Presenations
         
         
 

@@ -1,0 +1,14 @@
+---
+title: "Publications and Presentations"
+---
+
+![](docs/boat.jpg){fig-align="center"}
+
+### Publications
+
+1.  Physiologically-informed predictions of climate warming effects on native and non-native populations of blue catfish Vaskar Nepal, **Maggie M. Dillon**, Mary C. Fabrizio , Troy D. Tuckey
+2.  **In Review:** New contributions to the heterobranch sea slug biodiversity of Bocas del Toro, Panama Jaime L. Neill, **Maggie M. Dillon**, Cassie Bilecki, Samantha Bollinger, Sandra C. Dansereau, Abigail Flores, Kathrina B. Go Garcia, Rianna A. Hernandez-Thorn, Matthew Kim, Priscilla V. Martinez, Casey B. Pua, Daniel F. Ramirez, Daniel Sebastian, Jordyn A. Scott, Betty Wong, Abby A. Yuen, Jeremy T. Claisse, & Ángel Valdés
+
+### Presentations
+
+![](docs/geohab.jpg){fig-align="center"}
