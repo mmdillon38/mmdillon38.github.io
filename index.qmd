@@ -26,9 +26,9 @@ I am interested in quantitative marine research including fisheries, ecosystem b
 
 **Education**
 
-California Polytechnic University, Pomona \| Pomona, CA Master’s in Biology \| August 2022 - Present
+California Polytechnic University, Pomona \| Master’s in Biology \| Pomona, CA \| August 2022 - Present
 
-St. John’s College \| Annapolis MD B.A \| August 2014 - May 2018
+St. John’s College \| Bachelor of Arts \| Annapolis MD \| August 2014 - May 2018
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
