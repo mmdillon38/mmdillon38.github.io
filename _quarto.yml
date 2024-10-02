@@ -9,6 +9,9 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: outreach.qmd
+        text: Teaching and Outreach
+        
         
 
 format:
