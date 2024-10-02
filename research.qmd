@@ -4,8 +4,14 @@ title: "Research"
 
 ## Artificial Reefs and Offshore Wind
 
-## Climate Change s
+![](docs/rov.jpg)
 
-bluecatfish metabolic rate reserach
+## Climate Change
 
-ocean acidifcation on boring sponge
+![](docs/boringsponges.jpg)
+
+Ocean Acidification on Boring Sponges (*Cliona celata)* at Occidental College in the Stubler Lab
+
+![](docs/bluecat.jpg)
+
+The effect of temperature and aalinity on blue catfish (*Ictalurus furcatus)* metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab
