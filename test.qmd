@@ -1,0 +1,19 @@
+---
+title: "Test"
+format: html
+---
+
+## Simple Test
+
+Hello, World!
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1; padding: 10px;">
+    ![Image](docs/kelp.jpg)
+    <p>here fishy fishy.</p>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    ![Image](docs/fish.jpg)
+    <p>this one should have been the fish caption lol.</p>
+  </div>
+</div>

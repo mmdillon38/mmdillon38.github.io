@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Maggie M. Dillon",
     "section": "",
-    "text": "Hello! I am a marine ecology graduate student at Cal Poly Pomona in The Claisse Lab. I am interested in starting a PhD in Fall 2025.\nMy research interests include quantitative marine research, fisheries, ecosystem based management, and anthropogenic effects on marine ecosystems research. I have a broad range of experiences in education, research, and policy work spanning both coasts of the United States, the Caribbean, and in remote and urban settings. I enjoy projects that couple science with outreach and community engagement.\n\nEEducation\nCalifornia Polytechnic University, Pomona | Master’s in Biology | Pomona, CA | August 2022 - Present\nSt. John’s College | Bachelor of Arts | Annapolis MD | August 2014 - May 2018\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! I am a marine ecology graduate student at Cal Poly Pomona in The Claisse Lab. I am interested in starting a PhD in Fall 2025.\nMy research interests include quantitative marine research, fisheries, ecosystem based management, and anthropogenic effects on marine ecosystems research. I have a broad range of experiences in education, research, and policy work spanning both coasts of the United States, the Caribbean, and in remote and urban settings. I enjoy projects that couple science with outreach and community engagement.\n\nEducation\nCalifornia Polytechnic University, Pomona | Master’s in Biology | Pomona, CA | August 2022 - Present\nSt. John’s College | Bachelor of Arts | Annapolis MD | August 2014 - May 2018\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "cv.html#education",
@@ -74,7 +74,7 @@
     "href": "research.html#climate-change",
     "title": "Research",
     "section": "Climate Change",
-    "text": "Climate Change\n\nOcean Acidification\n\n\n\nBoring Sponge lab design\n\n\nIn September 2024 I started as a research assistnat in the Stubler Lab at at Occidental College. This is a one year NSF funded postion conducting research on the effect of ocean acdification and predator presence on Boring Sponges (Cliona celata)\n\n\n\nLarval fish under scope\n\n\nIn the summer of 2018 I interned at the NOAA JJ Howard Marine Lab in Sandy Hook New Jersey. Ocean Acidification, Dissolved Oxygen, and Seasonal Variation on the early life stages of Atlantic Silverside (Menidia menidia)\n\n\nWamring Oceans\n\n\n\nBlue catfish in a respirometry chamber\n\n\nThe effect of temperature and salinity on blue catfish (Ictalurus furcatus) metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab"
+    "text": "Climate Change\n\nOcean Acidification\n\n\n\nBoring Sponge lab design\n\n\n\nIn September 2024 I started as a research assistnat in the Stubler Lab at at Occidental College. This is a one year NSF funded postion conducting research on the effect of ocean acdification and predator presence on Boring Sponges (Cliona celata)\n\n\n\n\nLarval fish under scope\n\n\n\nIn the summer of 2018 I interned at the NOAA JJ Howard Marine Lab in Sandy Hook New Jersey. Ocean Acidification, Dissolved Oxygen, and Seasonal Variation on the early life stages of Atlantic Silverside (Menidia menidia)\n\n\n\nWarming Oceans\n\n\n\nBlue catfish in a respirometry chamber\n\n\n\nThe effect of temperature and salinity on blue catfish (Ictalurus furcatus) metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab"
   },
   {
     "objectID": "research.html#ocean-acidification-dissolved-oxygen-and-seasonal-variation-on-the-early-life-stages-of-atlantic-silverside-menidia-menidia",
@@ -101,7 +101,28 @@
     "objectID": "research.html#artificial-reefs-ars",
     "href": "research.html#artificial-reefs-ars",
     "title": "Research",
+    "section": "Artificial Reefs (ARs)",
+    "text": "Artificial Reefs (ARs)\n\n\n\n\n\n\nMy master’s thesis uses remotely operated vehicles with stereo video (Stereo-ROV) to assess the influence of construction material and habitat metrics on size specific fish assemblages on Bolsa Chica Artificial Reef in southern California. Construction material and habitat metrics (such as rugosity, relief, and heterogeneity) can influences fish abundance, diversity, and size specific assemblages. This project aims to aid policy makers as more manmade structures are added to water ways."
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
     "section": "",
-    "text": "My master’s thesis uses remotely operated vehicles with stereo video (Stereo-ROV) to assess the influence of construction material and habitat metrics on size specific fish assemblages on Bolsa Chica Artificial Reef in southern California. Construction material and habitat metrics (such as rugosity, relief, and heterogeneity) can influences fish abundance, diversity, and size specific assemblages. This project aims to aid policy makers as more manmade structures are added to water ways."
+    "text": "Hello, World!\n\n\n![Image](docs/kelp.jpg)\n&lt;p&gt;here fishy fishy.&lt;/p&gt;\n\n\n![Image](docs/fish.jpg)\n&lt;p&gt;this one should have been the fish caption lol.&lt;/p&gt;"
+  },
+  {
+    "objectID": "test.html#example-of-side-by-side-layout",
+    "href": "test.html#example-of-side-by-side-layout",
+    "title": "Untitled",
+    "section": "",
+    "text": "![Description of Image](docs/kelp.jpg)\n&lt;p&gt;so much information about fish and trawls and look at at all those croakers so cool wow type type type space space text blurb.&lt;/p&gt;\n\n\n![Description of Image](docs/fish.jpg)\n&lt;p&gt;This is the text that goes along with the second photo.&lt;/p&gt;\n\n\nquarto::render(“test.qmd”)"
+  },
+  {
+    "objectID": "test.html#simple-test",
+    "href": "test.html#simple-test",
+    "title": "Test",
+    "section": "",
+    "text": "Hello, World!\n\n\n![Image](docs/kelp.jpg)\n&lt;p&gt;here fishy fishy.&lt;/p&gt;\n\n\n![Image](docs/fish.jpg)\n&lt;p&gt;this one should have been the fish caption lol.&lt;/p&gt;"
   }
 ]

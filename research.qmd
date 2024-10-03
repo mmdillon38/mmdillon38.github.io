@@ -2,9 +2,11 @@
 title: "Research"
 ---
 
+![](docs/fish.jpg){fig-align="center"}
+
 ## Artificial Reefs (ARs)
 
-![](docs/rov.jpg){fig-align="right"}
+![](docs/rov.jpg){fig-align="left"}
 
 -   My master's thesis uses remotely operated vehicles with stereo video (Stereo-ROV) to assess the influence of construction material and habitat metrics on size specific fish assemblages on Bolsa Chica Artificial Reef in southern California. Construction material and habitat metrics (such as rugosity, relief, and heterogeneity) can influences fish abundance, diversity, and size specific assemblages. This project aims to aid policy makers as more manmade structures are added to water ways.
 
@@ -12,16 +14,16 @@ title: "Research"
 
 #### Ocean Acidification
 
-![Boring Sponge lab design](docs/boringsponges.jpg)
+![Boring Sponge lab design](docs/boringsponges.jpg){fig-align="left"}
 
 -   In September 2024 I started as a research assistnat in the [Stubler Lab](https://amberstubler.weebly.com/) at at Occidental College. This is a one year NSF funded postion conducting research on the effect of ocean acdification and predator presence on Boring Sponges (*Cliona celata)*
 
-![Larval fish under scope](docs/larvalfish.jpg)
+![Larval fish under scope](docs/larvalfish.jpg){fig-align="left"}
 
 -   In the summer of 2018 I interned at the NOAA JJ Howard Marine Lab in Sandy Hook New Jersey. Ocean Acidification, Dissolved Oxygen, and Seasonal Variation on the early life stages of Atlantic Silverside (*Menidia menidia*)
 
 #### Warming Oceans
 
-![Blue catfish in a respirometry chamber](docs/bluecat.jpg)
+![Blue catfish in a respirometry chamber](docs/bluecat.jpg){fig-align="left"}
 
 -   The effect of temperature and salinity on blue catfish (*Ictalurus furcatus*) metabolic rates at the Virginia Institute of Marine Sciences in the Fabrizio Lab
