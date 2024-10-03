@@ -74,7 +74,7 @@
     "href": "research.html#climate-change",
     "title": "Research",
     "section": "Climate Change",
-    "text": "Climate Change\n\n\n\nHow does ocean acidification and predator presence effect erosion rates of boring sponges?\nIn September 2024 I started as a research assistant in the Stubler Lab at at Occidental College. This is a one year NSF funded position conducting research on the effect of ocean acdification and predator presence on Boring Sponges (Cliona celata).\n\n\n\n\nHow does temperature and salinity effect the metabolic processes of an invasive species?\nBlue catfish (Ictalurus furcatus) are an introduced species in the Cheasapeake Bay. As a techncian at the Virginia Institute of Marine Sciences in the Fabrizio Lab I ran metabloic rate experiments in efforts to aid policy makers in forecasting future range expansion for blue catfish.\n\n\nHow does ocean warming effect the early life stages of fish?\nIn the summer of 2018 I interned at the NOAA JJ Howard Marine Lab in Sandy Hook New Jersey. We ran high frequency flow through expirements on the effect of ocean acidification, dissolved oxygen, and seasonal variation on the early life stages of atlantic silverside (Menidia menidia)."
+    "text": "Climate Change\n\n\n\nHow does ocean acidification affect erosion rates of boring sponges?\nIn September 2024, I started as a research assistant in the Stubler Lab at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (Cliona celata).\n\n\n\n\n\n\n\n\n \n\n\nHow does temperature and salinity affect the metabolic processes of an invasive species?\nBlue catfish (Ictalurus furcatus) are an introduced species in the Chesapeake Bay. As a technician at the Virginia Institute of Marine Sciences in the Fabrizio Lab, I ran metabolic rate experiments to aid managers in forecasting future range expansion for blue catfish.\n\n\n\n\n\n\n\nHow does ocean warming affect the early life stages of fish?\nIn the summer of 2018, I interned at the NOAA JJ Howard Marine Lab in Sandy Hook, New Jersey. We ran high-frequency flow-through experiments on the effects of ocean acidification, dissolved oxygen, and seasonal variation on the early life stages of Atlantic silverside (Menidia menidia)."
   },
   {
     "objectID": "research.html#ocean-acidification-dissolved-oxygen-and-seasonal-variation-on-the-early-life-stages-of-atlantic-silverside-menidia-menidia",
@@ -95,21 +95,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "How does construction material and habitat metrics influence fish assemblages?\nIn September 2024 I started as a research assistant in the Stubler Lab at at Occidental College. This is a one year NSF funded position conducting research on the effect of ocean acdification and predator presence on Boring Sponges (Cliona celata)."
+    "text": "How does construction material and habitat metrics influence fish assemblages?\nMy master thesis uses remotely operated vehicles with stereo video cameras to survey an artificial reef in southern California. Construction materials, design, and habitat metrics can all influences fish assemblages. This projects aims to study size specific assemblages. As more manmade substrate is added to water ways policy makers need a better frame for evaluating projects."
   },
   {
     "objectID": "research.html#artificial-reefs-ars",
     "href": "research.html#artificial-reefs-ars",
     "title": "Research",
-    "section": "",
-    "text": "How does construction material and habitat metrics influence fish assemblages?\nIn September 2024 I started as a research assistant in the Stubler Lab at at Occidental College. This is a one year NSF funded position conducting research on the effect of ocean acdification and predator presence on Boring Sponges (Cliona celata)."
+    "section": "Artificial Reefs (ARs)",
+    "text": "Artificial Reefs (ARs)\n\n\n\n\n\nHow does construction material and habitat metrics influence fish assemblages?\nMy master thesis uses remotely operated vehicles with stereo video cameras to survey an artificial reef in southern California. Construction materials, design, and habitat metrics can all influence fish assemblages. This project aims to study size-specific assemblages. As more manmade substrate is added to waterways, policymakers need a better framework for evaluating projects."
   },
   {
     "objectID": "test.html",
     "href": "test.html",
-    "title": "Test",
+    "title": "Test Research",
     "section": "",
-    "text": "Hello, World!\n\n\n![Image](docs/kelp.jpg)\n&lt;p&gt;here fishy fishy.&lt;/p&gt;\n\n\n![Image](docs/fish.jpg)\n&lt;p&gt;this one should have been the fish caption lol.&lt;/p&gt;"
+    "text": "Test Image\n\n\n\n\n\n\nThis is some sample text next to the image."
   },
   {
     "objectID": "test.html#example-of-side-by-side-layout",
@@ -124,5 +124,75 @@
     "title": "Test",
     "section": "",
     "text": "Hello, World!\n\n\n![Image](docs/kelp.jpg)\n&lt;p&gt;here fishy fishy.&lt;/p&gt;\n\n\n![Image](docs/fish.jpg)\n&lt;p&gt;this one should have been the fish caption lol.&lt;/p&gt;"
+  },
+  {
+    "objectID": "research.html#how-does-construction-material-and-habitat-metrics-influence-fish-assemblages",
+    "href": "research.html#how-does-construction-material-and-habitat-metrics-influence-fish-assemblages",
+    "title": "Research",
+    "section": "How does construction material and habitat metrics influence fish assemblages?",
+    "text": "How does construction material and habitat metrics influence fish assemblages?\nMy master thesis uses remotely operated vehicles with stereo video cameras to survey an artificial reef in southern California. Construction materials, design, and habitat metrics can all influence fish assemblages. This project aims to study size-specific assemblages. As more manmade substrate is added to waterways, policymakers need a better framework for evaluating projects."
+  },
+  {
+    "objectID": "test.html#test-grid-layout",
+    "href": "test.html#test-grid-layout",
+    "title": "Test Research",
+    "section": "",
+    "text": "Test Image\n\n\n\n\n\n\nThis is some sample text next to the image."
+  },
+  {
+    "objectID": "test.html#test-text",
+    "href": "test.html#test-text",
+    "title": "Test Research",
+    "section": "",
+    "text": "This is some sample text next to the image."
+  },
+  {
+    "objectID": "test.html#artificial-reefs-ars",
+    "href": "test.html#artificial-reefs-ars",
+    "title": "Research",
+    "section": "Artificial Reefs (ARs)",
+    "text": "Artificial Reefs (ARs)\n\n\n\n\n\nHow does construction material and habitat metrics influence fish assemblages?\nMy master thesis uses remotely operated vehicles with stereo video cameras to survey an artificial reef in southern California. Construction materials, design, and habitat metrics can all influence fish assemblages. This project aims to study size-specific assemblages. As more manmade substrate is added to waterways, policymakers need a better framework for evaluating projects."
+  },
+  {
+    "objectID": "test.html#how-does-construction-material-and-habitat-metrics-influence-fish-assemblages",
+    "href": "test.html#how-does-construction-material-and-habitat-metrics-influence-fish-assemblages",
+    "title": "Research",
+    "section": "How does construction material and habitat metrics influence fish assemblages?",
+    "text": "How does construction material and habitat metrics influence fish assemblages?\nMy master thesis uses remotely operated vehicles with stereo video cameras to survey an artificial reef in southern California. Construction materials, design, and habitat metrics can all influence fish assemblages. This project aims to study size-specific assemblages. As more manmade substrate is added to waterways, policymakers need a better framework for evaluating projects."
+  },
+  {
+    "objectID": "test.html#climate-change",
+    "href": "test.html#climate-change",
+    "title": "Research",
+    "section": "Climate Change",
+    "text": "Climate Change\n\n\n\nHow does ocean acidification affect erosion rates of boring sponges?\nIn September 2024, I started as a research assistant in the Stubler Lab at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (Cliona celata).\n\n\n\n\n\n\n\n\n \n\n\nHow does temperature and salinity affect the metabolic processes of an invasive species?\nBlue catfish (Ictalurus furcatus) are an introduced species in the Chesapeake Bay. As a technician at the Virginia Institute of Marine Sciences in the Fabrizio Lab, I ran metabolic rate experiments to aid managers in forecasting future range expansion for blue catfish.\n\n\n\n\n\n\n\nHow does ocean warming affect the early life stages of fish?\nIn the summer of 2018, I interned at the NOAA JJ Howard Marine Lab in Sandy Hook, New Jersey. We ran high-frequency flow-through experiments on the effects of ocean acidification, dissolved oxygen, and seasonal variation on the early life stages of Atlantic silverside (Menidia menidia)."
+  },
+  {
+    "objectID": "test.html#how-does-ocean-acidification-and-predator-presence-affect-erosion-rates-of-boring-sponges",
+    "href": "test.html#how-does-ocean-acidification-and-predator-presence-affect-erosion-rates-of-boring-sponges",
+    "title": "Research",
+    "section": "How does ocean acidification and predator presence affect erosion rates of boring sponges?",
+    "text": "How does ocean acidification and predator presence affect erosion rates of boring sponges?\nIn September 2024, I started as a research assistant in the Stubler Lab at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (Cliona celata)."
+  },
+  {
+    "objectID": "test.html#how-does-temperature-and-salinity-affect-the-metabolic-processes-of-an-invasive-species",
+    "href": "test.html#how-does-temperature-and-salinity-affect-the-metabolic-processes-of-an-invasive-species",
+    "title": "Research",
+    "section": "How does temperature and salinity affect the metabolic processes of an invasive species?",
+    "text": "How does temperature and salinity affect the metabolic processes of an invasive species?\nBlue catfish (Ictalurus furcatus) are an introduced species in the Chesapeake Bay. As a technician at the Virginia Institute of Marine Sciences in the Fabrizio Lab, I ran metabolic rate experiments to aid policymakers in forecasting future range expansion for blue catfish."
+  },
+  {
+    "objectID": "test.html#how-does-ocean-warming-affect-the-early-life-stages-of-fish",
+    "href": "test.html#how-does-ocean-warming-affect-the-early-life-stages-of-fish",
+    "title": "Research",
+    "section": "How does ocean warming affect the early life stages of fish?",
+    "text": "How does ocean warming affect the early life stages of fish?\nIn the summer of 2018, I interned at the NOAA JJ Howard Marine Lab in Sandy Hook, New Jersey. We ran high-frequency flow-through experiments on the effects of ocean acidification, dissolved oxygen, and seasonal variation on the early life stages of Atlantic silverside (Menidia menidia)."
+  },
+  {
+    "objectID": "test.html#how-does-ocean-acidification-affect-erosion-rates-of-boring-sponges",
+    "href": "test.html#how-does-ocean-acidification-affect-erosion-rates-of-boring-sponges",
+    "title": "Research",
+    "section": "How does ocean acidification affect erosion rates of boring sponges?",
+    "text": "How does ocean acidification affect erosion rates of boring sponges?\nIn September 2024, I started as a research assistant in the Stubler Lab at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (Cliona celata)."
   }
 ]
