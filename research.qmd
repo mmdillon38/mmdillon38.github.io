@@ -4,6 +4,22 @@ format:
   html: default
 ---
 
+<style>
+  @media (max-width: 768px) {
+      .columns {
+          display: block; /* Stack columns vertically on smaller screens */
+      }
+      .column {
+          width: 100%; /* Full width for each column */
+          margin-bottom: 20px; /* Space between stacked columns */
+      }
+      img {
+          max-width: 100%; /* Ensure images are responsive */
+          height: auto; /* Maintain aspect ratio */
+      }
+  }
+</style>
+
 ![](docs/fish.jpg){fig-align="center"}
 
 ## Artificial Reefs (ARs)

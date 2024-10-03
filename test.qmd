@@ -1,6 +1,79 @@
 ---
-title: "Test Page"
+title: "Research"
 format: 
   html: default
 ---
 
+<style>
+  @media (max-width: 768px) {
+      .columns {
+          display: block; /* Stack columns vertically on smaller screens */
+      }
+      .column {
+          width: 100%; /* Full width for each column */
+          margin-bottom: 20px; /* Space between stacked columns */
+      }
+      img {
+          max-width: 100%; /* Ensure images are responsive */
+          height: auto; /* Maintain aspect ratio */
+      }
+  }
+</style>
+
+![](docs/fish.jpg){fig-align="center"}
+
+## Artificial Reefs (ARs)
+
+::::: columns
+::: column
+![](docs/rov.jpg){height="250px"}
+:::
+
+::: column
+### **How does construction material and habitat metrics influence fish assemblages?**
+
+My master thesis uses remotely operated vehicles with stereo video cameras to survey an artificial reef in southern California. Construction materials, design, and habitat metrics can all influence fish assemblages. This project aims to study size-specific assemblages. As more manmade substrate is added to waterways, policymakers need a better framework for evaluating projects.
+:::
+:::::
+
+## Climate Change
+
+::::: columns
+::: column
+### **How does ocean acidification affect erosion rates of boring sponges?**
+
+In September 2024, I started as a research assistant in the [Stubler Lab](https://amberstubler.weebly.com/) at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (*Cliona celata*).
+:::
+
+::: column
+![](docs/boringsponges.jpg){height="250px"}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+::::: columns
+::: column
+![](docs/bluecat.jpg){height="250px"} <!-- Adjust height as needed -->
+:::
+
+::: column
+### **How does temperature and salinity affect the metabolic processes of an invasive species?**
+
+Blue catfish (*Ictalurus furcatus*) are an introduced species in the Chesapeake Bay. As a technician at the Virginia Institute of Marine Sciences in the Fabrizio Lab, I ran metabolic rate experiments to aid managers in forecasting future range expansion for blue catfish.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+::::: columns
+::: column
+### **How does ocean warming affect the early life stages of fish?**
+
+In the summer of 2018, I interned at the NOAA JJ Howard Marine Lab in Sandy Hook, New Jersey. We ran high-frequency flow-through experiments on the effects of ocean acidification, dissolved oxygen, and seasonal variation on the early life stages of Atlantic silverside (*Menidia menidia*).
+:::
+
+::: column
+![](docs/larvalfish.jpg){height="250px"} <!-- Adjust height as needed -->
+:::
+:::::

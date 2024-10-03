@@ -147,6 +147,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<style>
+  @media (max-width: 768px) {
+      .columns {
+          display: block; /* Stack columns vertically on smaller screens */
+      }
+      .column {
+          width: 100%; /* Full width for each column */
+          margin-bottom: 20px; /* Space between stacked columns */
+      }
+      img {
+          max-width: 100%; /* Ensure images are responsive */
+          height: auto; /* Maintain aspect ratio */
+      }
+  }
+</style>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="docs/fish.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
