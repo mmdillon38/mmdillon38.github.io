@@ -9,7 +9,7 @@ about:
       href: mailto:mmdillon@cpp.edu
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/mmdillon38
     - icon: File
       text: CV
       href: cv.pdf
