@@ -26,6 +26,6 @@ title: "Teaching and Outreach"
 
 -   Marine Science Instructor Catalina Island Marine Institute
 
--   Marnine Program Lead Rustic Pathways Dominican Republic
+-   Marine Program Lead Rustic Pathways Dominican Republic
 
 ![](docs/algaetank.jpg){fig-align="center"}
