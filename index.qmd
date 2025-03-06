@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#ppc}
-Hello! I am a marine ecology graduate student at Cal Poly Pomona in [The Claisse Lab](https://www.claisselab.com/). I am interested in starting a PhD in Fall 2025.
+Hello! I am a marine ecology graduate student at Cal Poly Pomona in [The Claisse Lab](https://www.claisselab.com/). I am interested in starting a PhD in 2025.
 
 My research interests include quantitative marine research, fisheries, ecosystem based management, and anthropogenic effects on marine ecosystems research. I have a broad range of experiences in education, research, and policy work spanning both coasts of the United States, the Caribbean, and in remote and urban settings. I enjoy projects that couple science with outreach and community engagement.
 
