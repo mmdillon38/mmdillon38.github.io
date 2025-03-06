@@ -42,7 +42,7 @@ My master thesis uses remotely operated vehicles with stereo video cameras to su
 ::: column
 ### **How does ocean acidification affect erosion rates of boring sponges?**
 
-In September 2024, I started as a research assistant in the [Stubler Lab](https://amberstubler.weebly.com/) at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (*Cliona celata*) and (*Cliona californiana*). In January 2025 the lab's microCT was installed and we are in the process of developing SOPs to utilize it in our research. 
+In September 2024, I started as a research assistant in the [Stubler Lab](https://amberstubler.weebly.com/) at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (*Cliona celata*) and (*Cliona californiana*). In January 2025 the lab's microCT was installed and we are in the process of developing SOPs to utilize it in our research.
 :::
 
 ::: column
