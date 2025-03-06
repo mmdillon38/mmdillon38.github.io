@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Maggie M. Dillon"
+  title: "Maggie Dillon"
   navbar:
     left:
       - href: index.qmd
