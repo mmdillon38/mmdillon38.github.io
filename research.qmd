@@ -42,7 +42,7 @@ My master thesis uses remotely operated vehicles with stereo video cameras to su
 ::: column
 ### **How does ocean acidification affect erosion rates of boring sponges?**
 
-In September 2024, I started as a research assistant in the [Stubler Lab](https://amberstubler.weebly.com/) at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (*Cliona celata*).
+In September 2024, I started as a research assistant in the [Stubler Lab](https://amberstubler.weebly.com/) at Occidental College. This is a one-year NSF-funded position conducting research on the effect of ocean acidification and predator presence on Boring Sponges (*Cliona celata*) and (*Cliona californiana*). In January 2025 the lab's microCT was installed and we are in the process of developing SOPs to utilize it in our research. 
 :::
 
 ::: column
@@ -56,7 +56,7 @@ In September 2024, I started as a research assistant in the [Stubler Lab](https:
 ::: column
 ### **How does temperature and salinity affect the metabolic processes of an invasive species?**
 
-Blue catfish (*Ictalurus furcatus*) are an introduced species in the Chesapeake Bay. As a technician at the Virginia Institute of Marine Sciences in the Fabrizio Lab, I ran metabolic rate experiments to aid managers in forecasting future range expansion for blue catfish.
+Blue catfish (*Ictalurus furcatus*) are an introduced species in the Chesapeake Bay. As a technician at the Virginia Institute of Marine Sciences in the Fabrizio Lab, I ran temperature and salinity metabolic rate experiments on blue catfish to aid managers in forecasting future range expansion for blue catfish.
 :::
 
 ::: column
