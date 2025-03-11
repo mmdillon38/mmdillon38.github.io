@@ -4,6 +4,7 @@ format:
   html: default
 ---
 
+```{=html}
 <style>
   @media (max-width: 768px) {
       .columns {
@@ -19,6 +20,7 @@ format:
       }
   }
 </style>
+```
 
 ![](docs/fish.jpg){fig-align="center"}
 
