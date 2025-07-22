@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#ppc}
-Hello! I am a marine ecology graduate student at Cal Poly Pomona in [The Claisse Lab](https://www.claisselab.com/). I am interested in starting a PhD in 2025.
+Hello! I am a incoming PhD [student](https://colsa.unh.edu/spotlight/maggie-dillon) in the [Jellison Lab](https://brittanyjellison.wixsite.com/research) at the University of New Hampshire. In May of 2025 I graduated with a masters in biology from Cal Poly Pomona. I was a member of the [The Claisse Lab](https://www.claisselab.com/) and used ROVs to research how construction materials and designs on artificial reefs affected size specific fish assemblages.
 
 My research interests include quantitative marine research, fisheries, ecosystem based management, and anthropogenic effects on marine ecosystems research. I have a broad range of experiences in education, research, and policy work spanning both coasts of the United States, the Caribbean, and in remote and urban settings. I enjoy projects that couple science with outreach and community engagement.
 
@@ -25,7 +25,7 @@ My research interests include quantitative marine research, fisheries, ecosystem
 
 **Education**
 
-California Polytechnic University, Pomona \| Master’s in Biology \| Pomona, CA \| August 2022 - Present
+California Polytechnic University, Pomona \| Master’s in Biology \| Pomona, CA \| August 2022 - May 2025
 
 St. John’s College \| Bachelor of Arts \| Annapolis MD \| August 2014 - May 2018
 

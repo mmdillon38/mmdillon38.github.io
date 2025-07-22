@@ -30,7 +30,7 @@ format:
 ::: column
 ### **How does construction material and habitat metrics influence fish assemblages?**
 
-My master thesis uses remotely operated vehicles with stereo video cameras to survey artificial reefs in southern California. Construction materials, design, and habitat metrics can all influence fish assemblages. This project aims to study size-specific assemblages. As more manmade substrate is added to waterways, policymakers need a better framework for evaluating projects.
+My master thesis used remotely operated vehicles with stereo video cameras to survey artificial reefs in southern California. Construction materials, design, and habitat metrics can all influence fish assemblages. This project aimed to study size-specific assemblages. As more manmade substrate is added to waterways, policymakers need a better framework for evaluating projects.
 :::
 
 ::: column
