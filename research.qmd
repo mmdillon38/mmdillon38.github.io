@@ -24,6 +24,20 @@ format:
 
 ![](docs/fish.jpg){fig-align="center"}
 
+## Oyster Aquaculture
+
+::::: columns
+::: column
+### Oyster overwintering  
+
+Winter mortality is a significant challenge for eastern oyster (*Crassostrea virginica*) aquaculture operations in northern waters. Understanding how farming practices and physiological indicators associated with winter survival is critical for cold-weather oyster farming. We are studying the drivers of winter behavior and survival of eastern oysters in New Hampshire.
+:::
+
+::: column
+![](docs/oyster.jpg){width="100%"}
+:::
+:::::
+
 ## Artificial Reefs (ARs)
 
 ::::: columns
@@ -48,7 +62,7 @@ In September 2024, I started as a research assistant in the [Stubler Lab](https:
 :::
 
 ::: column
-![](docs/boringsponges.jpg){width="100%"}
+![](docs/sponge.jpg){width="100%"}
 :::
 :::::
 
