@@ -1,0 +1,27 @@
+Markdown
+---
+title: "Photo Gallery"
+lightbox: auto
+---
+
+::: {layout-ncol="3"}
+```{r}
+#| echo: false
+#| results: asis
+
+# Define the folder
+img_dir <- "Lightbox_Photos"
+
+# Get file names
+images <- list.files(img_dir, 
+                     pattern = "\\.(jpg|jpeg|png|gif)$", 
+                     full.names = TRUE, 
+                     ignore.case = TRUE)
+
+# Generate the image syntax
+for (img in images) {
+  cat(paste0("![ ](", img, "){group='my-gallery'}\n\n"))
+}
+```
+
+:::
