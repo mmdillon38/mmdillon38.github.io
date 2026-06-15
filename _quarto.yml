@@ -13,6 +13,8 @@ website:
         text: Teaching and Outreach
       - href: publications.qmd
         text: Publications
+      - href: photogallery.qmd
+        text: Photos   
         
 
 format:
